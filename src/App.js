@@ -9,7 +9,7 @@ function App() {
   return(
     <BrowserRouter>
     <div>
-      <h1>Ticket Master</h1>
+      <h1>Ticket Master 2 </h1>
       <Link to= "/">Home</Link>
       <Link to="/users/register">Register</Link>
       <Link to = "/users/login">Login</Link>
